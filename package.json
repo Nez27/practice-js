@@ -1,0 +1,19 @@
+{
+  "name": "practice-project",
+  "version": "1.0.0",
+  "description": "Forkify aplication",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Nezumi",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "core-js": "^3.32.0",
+    "regenerator-runtime": "^0.14.0"
+  }
+}
